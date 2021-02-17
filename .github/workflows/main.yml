@@ -16,4 +16,4 @@ jobs:
         server: ${{ secrets.URL }}
         username: ${{ secrets.USER }}
         password: ${{ secrets.PASSWORD }}
-        server-dir: ./tester/
+        server-dir: ./
