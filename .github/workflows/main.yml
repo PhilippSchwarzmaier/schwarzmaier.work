@@ -1,0 +1,19 @@
+on: push
+name: build and deploy website
+jobs: 
+  web-deploy:
+    environment: ftp
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2.3.2
+    
+    - name: Update to ftp
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
+     
+      with:
+        server: ${{ secrets.URL }}
+        username: ${{ secrets.USER }}
+        password: ${{ secrets.PASSWORD }}
+        server-dir: ./tester/
