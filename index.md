@@ -17,3 +17,4 @@ layout: layout.liquid
     2000 Stockerau
 </address>
 <p>Wir freuen uns auf deine spannenden Projekte.</p>
+<p class="bold">Dein SCHWARZMAIER Team</p>
