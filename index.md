@@ -1,5 +1,5 @@
 ---
-title: schwarzmaier.work
+title: schwarzmaier - Websites und WebApps Entwicklung
 layout: layout.liquid
 ---
 <h1>Willkommen bei SCHWARZMAIER</h1>
