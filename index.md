@@ -17,5 +17,4 @@ layout: layout.liquid
     2000 Stockerau
 </address>
 </br>
-<p>Ich freue mich auf spannende Projekte.</p>
-<p class="bold">Philipp</p>
+<p>Wir freuen uns auf deine spannenden Projekte.</p>
