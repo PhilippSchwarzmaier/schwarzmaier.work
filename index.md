@@ -16,5 +16,4 @@ layout: layout.liquid
     Manhartstrasse 53/7/1<br>
     2000 Stockerau
 </address>
-</br>
 <p>Wir freuen uns auf deine spannenden Projekte.</p>
