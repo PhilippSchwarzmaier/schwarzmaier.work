@@ -4,7 +4,7 @@ layout: layout.liquid
 ---
 <h1>Willkommen bei SCHWARZMAIER</h1>
 <p>Unsere Seite ist derzeit im Aufbau</p>
-<p class="bold">Gerne unterstütze wir dich bei der Entwicklung von Websiten oder WebApps.</p>
+<p class="bold">Gerne unterstützen wir dich bei der Entwicklung von Websiten oder WebApps.</p>
 <address>
     Melde dich einfach per:<br>
     <br>
